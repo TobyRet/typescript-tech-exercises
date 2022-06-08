@@ -1,0 +1,15 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+.webpack
+coverage
+
+# dependencies
+node_modules
+
+# System Files
+.DS_Store
+
+# IDEs and editors
+/.idea
